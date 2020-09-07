@@ -22,9 +22,9 @@ export function* authSaga(action) {
         password: action.password,
         returnSecureToken: true
     };
-    let url = 'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyDIhCiuu9j0zr0ZKeLuNi77TIqHPj8UuJo';
+    let url = 'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=YOUR_GOOGLE_API_KEY';
     if (!action.isSignUp) {
-        url = 'https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyDIhCiuu9j0zr0ZKeLuNi77TIqHPj8UuJo';
+        url = 'https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=YOUR_GOOGLE_API_KEY';
     }
     try {
     const res = yield axios.post(url, authData);
