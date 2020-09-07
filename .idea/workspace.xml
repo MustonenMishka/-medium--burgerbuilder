@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381d1ab2-09fa-4e2c-a187-63877492e643" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fSk6yJnMdIz31lwCQkSOrc23zM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail\Desktop\BurgerBuilder\src\components\Navigation\NavigationItems" />
+      <recent name="C:\Users\Mikhail\Desktop\BurgerBuilder\src\shared" />
+      <recent name="C:\Users\Mikhail\Desktop\BurgerBuilder\src\store\reducers" />
+      <recent name="C:\Users\Mikhail\Desktop\BurgerBuilder\src\store\actions" />
+      <recent name="C:\Users\Mikhail\Desktop\BurgerBuilder\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BurgerBuilder.should render BuildControls when receiving ingredients" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.test.js" />
+      <test-names>
+        <test-name value="BurgerBuilder" />
+        <test-name value="should render BuildControls when receiving ingredients" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.BurgerBuilder.should render BuildControls when receiving ingredients" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381d1ab2-09fa-4e2c-a187-63877492e643" name="Default Changelist" comment="" />
+      <created>1596218711135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596218711135</updated>
+      <workItem from="1596218722772" duration="15235000" />
+      <workItem from="1596374410007" duration="8335000" />
+      <workItem from="1596464007941" duration="5748000" />
+      <workItem from="1596647511315" duration="11232000" />
+      <workItem from="1597004321598" duration="8432000" />
+      <workItem from="1597516203752" duration="17220000" />
+      <workItem from="1597653241695" duration="13492000" />
+      <workItem from="1598080082480" duration="11355000" />
+      <workItem from="1598260367921" duration="12444000" />
+      <workItem from="1598345260200" duration="10468000" />
+      <workItem from="1598387091022" duration="3476000" />
+      <workItem from="1598428633733" duration="19077000" />
+      <workItem from="1598637450771" duration="22217000" />
+      <workItem from="1598972314367" duration="1338000" />
+      <workItem from="1599031792115" duration="924000" />
+      <workItem from="1599032938507" duration="11630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="194" key="GridCell.Tab.0.bottom" timestamp="1598879050725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598879050725" />
+    <state width="1515" height="194" key="GridCell.Tab.0.center" timestamp="1598879050725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598879050725" />
+    <state width="1515" height="194" key="GridCell.Tab.0.left" timestamp="1598879050725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598879050725" />
+    <state width="1515" height="194" key="GridCell.Tab.0.right" timestamp="1598879050725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598879050725" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1598729978638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598729978638" />
+    <state x="452" y="0" width="631" height="824" key="find.popup" timestamp="1598708987682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="0" width="631" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598708987682" />
+  </component>
+</project>

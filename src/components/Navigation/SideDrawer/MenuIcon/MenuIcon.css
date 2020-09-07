@@ -1,0 +1,20 @@
+.MenuIcon {
+    margin: 1em;
+    width: 40px;
+}
+
+.MenuIcon:after,
+.MenuIcon:before,
+.MenuIcon div {
+    background-color: #fff;
+    border-radius: 3px;
+    content: '';
+    display: block;
+    height: 5px;
+    margin: 7px 0;
+}
+@media (min-width: 500px) {
+    .MenuIcon {
+        display: none;
+    }
+}
